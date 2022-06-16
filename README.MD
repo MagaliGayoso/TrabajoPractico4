@@ -1,4 +1,4 @@
 # Trabajo practico 4
 ## Participantes:
--Magali Gayoso 
+-Magali Gayoso 26 Lanus oeste
 -Damian Duarte
